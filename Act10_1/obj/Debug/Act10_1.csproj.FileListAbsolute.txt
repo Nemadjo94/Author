@@ -1,0 +1,7 @@
+C:\Users\Nemanja Djordjevic\source\repos\Act10_1\Act10_1\bin\Debug\Act10_1.exe.config
+C:\Users\Nemanja Djordjevic\source\repos\Act10_1\Act10_1\bin\Debug\Act10_1.exe
+C:\Users\Nemanja Djordjevic\source\repos\Act10_1\Act10_1\bin\Debug\Act10_1.pdb
+C:\Users\Nemanja Djordjevic\source\repos\Act10_1\Act10_1\obj\Debug\Act10_1.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\Act10_1\Act10_1\obj\Debug\Act10_1.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\Act10_1\Act10_1\obj\Debug\Act10_1.exe
+C:\Users\Nemanja Djordjevic\source\repos\Act10_1\Act10_1\obj\Debug\Act10_1.pdb
